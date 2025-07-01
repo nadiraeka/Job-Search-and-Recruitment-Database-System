@@ -1,1 +1,2 @@
-# Job-Search-and-Recruitment-Database-System
+## Job Search and Recruitment Database System Using Python & SQLite
+
